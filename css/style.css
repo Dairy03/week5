@@ -19,18 +19,19 @@
 }
 
 .boxmodelspan{
-    padding:0,5px;
+    padding:0 5px;
     border-top-style:solid;
     border-bottom-style:solid;
-    border-top-width:4px;
+    border-top-width:2px;
     border-top-color:grey;
     border-bottom-width:4px;
     border-bottom-color:black;
 }
 
 .fillerp{
-    border-style:ridge;
+   /*  border-style:ridge;
     border-color:lightgreen;
-    border-width:10px;
+    border-width:10px; */
+    border: ridge lightgreen 10px;
     margin:5px;
 }
